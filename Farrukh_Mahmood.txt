@@ -1,0 +1,28 @@
+1-Vilka filer bör finnas i .gitignore? (Ange 2-4 st)?
+Git keeps track of all the files we are working with in git diretory. The files does belong to different categories which are categorised by Git, and can be tracked, untracked or ignored files. The .gitignore are the files which are categorised under ignored category and contains the files mentioned by the users/members of the Git respository or by Git itself. These files can vary from a simple log files to any configuration files generated or by IDE or specifically stated by the user/member of that respository or in general Git. To make it clear for Git about the ignored files Git allows us to use the specifications for explicitly point out them by using annotations for lines of code or making the whole folder to be ignored. There are many ways we can point out the file section/files/folders to be ignored using Git guidelines or Git ignore patterns based on "globbing patterns".All those patterns are usually written on file .gitignore placed on root of your working copy, but you can have multiple files that stated what to ignore or stating not to ignore as well.If we write it explicitly then files which are normally stated in .gitignore are:
+-log files.
+-configuration files.
+-explicitly mentioned (e.g *.html interpreted as not to include/track all Html files).
+-"#" sign to ignore the line of code.
+The files being ignored can be seen by using command "git status -ignored".
+
+2-Vad är en applikationsserver och varför behövs den?
+The advancement in IT sector has made the applications to work in more versatile fashion and the internet is now no more to view websites rather have introduced more than browsers installed on a desktop computers or laptops and extends its range to real-time applciations in a complex manner. There were times when a user come in and want to surf a website and being asked to enter his/her name and can be used to greet all the way through web-surfing, but these days the computation has been advanced to more complex level and requires a lot more resources than we expect to run a single applicaiton. To handle all those complexities several solutions are devloped to catered those needs and ApplicationServer was born. ApplicationServer is a structure held responsible to cater needs of any mobileapp, web application or browser requests.It is worth to mention the need of applicationserver was needed since the already available solutions e.g. webservers lacks the ability to handle dynamic data and its transformation into business logic and performing multithreaded processes with large number of users and enhancing the security level thorughtout the channel between the server and end-user and much more. We have variety of applciationserver to choose from based on needs and utilities and some of the famous ones are which are avaialble from some known providers:
+-Payara
+-Tomcat
+-Jetty
+-GlassFish
+-Enterprise server
+
+3-Vilka parametrar skulle du titta på för att bedöma vilket IDE som skall användas i ett
+utvecklingsprojekt.
+What is an IDE? The IDE stands for Integrated Development Environment is a software/program helps in a development process for its users. This help comes in handy when we are indulge in a software development and need more than text-editor to perfom software developmetn processes which might inlude coding, testing, etc. In my perspetive no IDE is bad or good rather it is more to what you are expected to do. A simple hello world program in Java or any other programming language could be written and run using basic text-editor like notepad,notepad++ or any other using the right compiling tool. The concept of what IDE you use is purely based on the situtation and we can say the complexity level of piece of code/program we are going to write and it make us think what actual utilities or services the IDE is providing? e.g. i want to write a webapplcation using Payara server and turns out that IntelliJ needs a license before I can proceed with that IDE. It is not everytime the same aspect we consider rather what we have in reach aswell. There are some factors which affects the choice of IDE can be:
+-What programming language to work since IDEs are restrticted to one or more programming language.
+-Configuration (IDE provide already configured programs o speed up development).
+-Refactoring and formatting the code.
+-Opensource or Licensed.
+-Dubugging option.
+-Integeration and Synchrinations with third party tools.
+-Performance (can be subjective and varies from user to user).
+-Variety of packages and libraries etc.
+-
