@@ -1,7 +1,7 @@
 Vilka filer bör finnas i .gitignore? (Ange 2-4 st)?
 - compiled class file, log file, package files  
 
-Vad är en applicationsserver och varför behövs den?
+Vad är en applikationsserver och varför behövs den?
 - Its a mixed framework or software that allows both creation of web applications and a server enviorment to run them. 
 - Its useful for publicity and branding, Customer service and Competitive edge. 
 - It transforms data into dynamic content and enbables the functionality of the application. 
