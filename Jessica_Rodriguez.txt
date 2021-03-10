@@ -1,11 +1,10 @@
 Vilka filer bör finnas i .gitignore? (Ange 2-4 st)?
--  
+- compiled class file, log file, package files  
 
 What is an applicationserver and why do we need it? 
 - Its a mixed framework or software that allows both creation of web applications and a server enviorment to run them. 
 - Its useful for publicity and branding, Customer service and Competitive edge. 
 - It transforms data into dynamic content and enbables the functionality of the application. 
 
-Vilka parametrar skulle du titta på för att bedöma vilket IDE som skall användas i ett
-utvecklingsprojekt.
-- 
+Wicth parameters would you look at to djudge witch IDE is going to be used in a developroject?
+- The IDE should have a texteditor, compiler and a debugger. The IDE should be able to integrate with other tools such as for example Maven. 
