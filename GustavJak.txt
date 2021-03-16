@@ -1,0 +1,18 @@
+fråga 1
+Vilka filer bör finnas i .gitignore? (Ange 2-4 st)
+
+ compiled Class file
+ log file
+ package files
+
+fråga 2
+Vad är en applikationsserver och varför behövs den?
+
+En applikationsserver agerar i regel som en förmedlande server i ett tre-skikt-system med en webbserver på ena sidan och en databasserver på andra sidan
+En applikationsserver kan kommma att behövas då en användare vill komma åt en annan applikation.
+
+fråga 3
+Vilka parametrar skulle du titta på för att bedöma vilket IDE som skall användas i ett utvecklingsprojekt?
+
+Skulle titta på vad som är vid behov av användning och sedan välja vilket IDE som skall användas efter det.
+
