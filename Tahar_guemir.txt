@@ -1,2 +1,19 @@
-det borde finnas alla filar som ska inte ändras[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[1Det
-[A[C[C[Det[B[D[D[D[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C  [Doch mappar som ska inte ändras
+Question 1
+In the file .gitignore we put :
+-log files :*.log
+-compiled class files : *.class
+-Package files : exemple *.jar/*.war ....
+
+Question 2
+An application server are  programs  used to provide their services to the client program that either resides on the same machine or lies on a network
+The main purpose of the application server is reducing the size and complexity of the client programs
+The need to cache and control the data flow for better performance and implementing security for data as well as end-user traffic
+some exemple of application servers: JBoss, GlassFish and Tomcat...
+
+Question 3
+
+ we need som importent properties to be in the IDE 
+mainly Debugging, Unit Testing, code Refactoring and Profiling, Source code Integration,
+Devlopment and Realese tool integration.
+they are many other features that help the programer but good to have track of changes
+database integration and more.
